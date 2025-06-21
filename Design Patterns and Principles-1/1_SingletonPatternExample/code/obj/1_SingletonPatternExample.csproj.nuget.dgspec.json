@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VIJAYALAKSHMI\\Desktop\\6389107-srinidhiiix\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\1_SingletonPatternExample.csproj": {}
+    "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\1_SingletonPatternExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VIJAYALAKSHMI\\Desktop\\6389107-srinidhiiix\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\1_SingletonPatternExample.csproj": {
+    "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\1_SingletonPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VIJAYALAKSHMI\\Desktop\\6389107-srinidhiiix\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\1_SingletonPatternExample.csproj",
+        "projectUniqueName": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\1_SingletonPatternExample.csproj",
         "projectName": "1_SingletonPatternExample",
-        "projectPath": "C:\\Users\\VIJAYALAKSHMI\\Desktop\\6389107-srinidhiiix\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\1_SingletonPatternExample.csproj",
+        "projectPath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\1_SingletonPatternExample.csproj",
         "packagesPath": "C:\\Users\\VIJAYALAKSHMI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VIJAYALAKSHMI\\Desktop\\6389107-srinidhiiix\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\obj\\",
+        "outputPath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VIJAYALAKSHMI\\AppData\\Roaming\\NuGet\\NuGet.Config"

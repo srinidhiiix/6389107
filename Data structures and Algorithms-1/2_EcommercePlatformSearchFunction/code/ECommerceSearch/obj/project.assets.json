@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\1_SingletonPatternExample.csproj",
-      "projectName": "1_SingletonPatternExample",
-      "projectPath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\1_SingletonPatternExample.csproj",
+      "projectUniqueName": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Data structures and Algorithms-1\\2_EcommercePlatformSearchFunction\\code\\ECommerceSearch\\ECommerceSearch.csproj",
+      "projectName": "ECommerceSearch",
+      "projectPath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Data structures and Algorithms-1\\2_EcommercePlatformSearchFunction\\code\\ECommerceSearch\\ECommerceSearch.csproj",
       "packagesPath": "C:\\Users\\VIJAYALAKSHMI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Design Patterns and Principles-1\\1_SingletonPatternExample\\code\\obj\\",
+      "outputPath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Data structures and Algorithms-1\\2_EcommercePlatformSearchFunction\\code\\ECommerceSearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VIJAYALAKSHMI\\AppData\\Roaming\\NuGet\\NuGet.Config"
