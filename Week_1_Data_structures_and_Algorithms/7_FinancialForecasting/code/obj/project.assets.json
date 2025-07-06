@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Week_1_Data_structures_and_Algorithms\\7_FinancialForecasting\\code\\FinancialForecasting.csproj",
+      "projectUniqueName": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Data structures and Algorithms-1\\7_FinancialForecasting\\code\\FinancialForecasting.csproj",
       "projectName": "FinancialForecasting",
-      "projectPath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Week_1_Data_structures_and_Algorithms\\7_FinancialForecasting\\code\\FinancialForecasting.csproj",
+      "projectPath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Data structures and Algorithms-1\\7_FinancialForecasting\\code\\FinancialForecasting.csproj",
       "packagesPath": "C:\\Users\\VIJAYALAKSHMI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Week_1_Data_structures_and_Algorithms\\7_FinancialForecasting\\code\\obj\\",
+      "outputPath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\Data structures and Algorithms-1\\7_FinancialForecasting\\code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VIJAYALAKSHMI\\AppData\\Roaming\\NuGet\\NuGet.Config"
