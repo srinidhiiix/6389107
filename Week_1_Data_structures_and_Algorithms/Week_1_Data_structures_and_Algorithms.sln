@@ -1,0 +1,41 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7_FinancialForecasting", "7_FinancialForecasting", "{DB02F020-69F9-A0D9-F802-E3D124DC33E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_EcommercePlatformSearchFunction", "2_EcommercePlatformSearchFunction", "{E31AA238-EAAC-77CE-4808-3A77EAB2BE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialForecasting", "7_FinancialForecasting\code\FinancialForecasting.csproj", "{85700527-34CE-0140-9037-D51890E2D720}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "code", "code", "{5CA4C06D-E3F5-1102-AE48-2FD616060DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceSearch", "2_EcommercePlatformSearchFunction\code\ECommerceSearch\ECommerceSearch.csproj", "{F29B92A9-A9D9-7238-2D58-495A6729B2A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85700527-34CE-0140-9037-D51890E2D720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85700527-34CE-0140-9037-D51890E2D720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85700527-34CE-0140-9037-D51890E2D720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85700527-34CE-0140-9037-D51890E2D720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29B92A9-A9D9-7238-2D58-495A6729B2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29B92A9-A9D9-7238-2D58-495A6729B2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29B92A9-A9D9-7238-2D58-495A6729B2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29B92A9-A9D9-7238-2D58-495A6729B2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{85700527-34CE-0140-9037-D51890E2D720} = {DB02F020-69F9-A0D9-F802-E3D124DC33E3}
+		{5CA4C06D-E3F5-1102-AE48-2FD616060DED} = {E31AA238-EAAC-77CE-4808-3A77EAB2BE86}
+		{F29B92A9-A9D9-7238-2D58-495A6729B2A5} = {5CA4C06D-E3F5-1102-AE48-2FD616060DED}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87A0A3B8-DFE5-4C4B-839D-AB60AE30406A}
+	EndGlobalSection
+EndGlobal
