@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LkOuw2ojh2Q=",
+  "dgSpecHash": "ZD1awZ67ezM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\VIJAYALAKSHMI\\Desktop\\html tutorial\\Week_3_EF\\lab_1\\RetailInventory.csproj",
+  "projectFilePath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\RetailInventory\\RetailInventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VIJAYALAKSHMI\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\VIJAYALAKSHMI\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

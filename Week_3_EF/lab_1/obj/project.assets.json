@@ -4684,11 +4684,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VIJAYALAKSHMI\\Desktop\\html tutorial\\Week_3_EF\\lab_1\\RetailInventory.csproj",
+      "projectUniqueName": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\RetailInventory\\RetailInventory.csproj",
       "projectName": "RetailInventory",
-      "projectPath": "C:\\Users\\VIJAYALAKSHMI\\Desktop\\html tutorial\\Week_3_EF\\lab_1\\RetailInventory.csproj",
+      "projectPath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\RetailInventory\\RetailInventory.csproj",
       "packagesPath": "C:\\Users\\VIJAYALAKSHMI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VIJAYALAKSHMI\\Desktop\\html tutorial\\Week_3_EF\\lab_1\\obj\\",
+      "outputPath": "C:\\Users\\VIJAYALAKSHMI\\Documents\\GitHub\\6389107\\RetailInventory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VIJAYALAKSHMI\\AppData\\Roaming\\NuGet\\NuGet.Config"
