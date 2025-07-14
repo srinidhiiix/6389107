@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\1_WebApi_Handson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F19561-4B38-4E48-84EF-5C4BD9D735BB}|1_WebApi_Handson.csproj|c:\\users\\vijayalakshmi\\source\\repos\\1_webapi_handson\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F19561-4B38-4E48-84EF-5C4BD9D735BB}|1_WebApi_Handson.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F19561-4B38-4E48-84EF-5C4BD9D735BB}|1_WebApi_Handson.csproj|c:\\users\\vijayalakshmi\\source\\repos\\1_webapi_handson\\1_webapi_handson.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C9F19561-4B38-4E48-84EF-5C4BD9D735BB}|1_WebApi_Handson.csproj|solutionrelative:1_webapi_handson.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F19561-4B38-4E48-84EF-5C4BD9D735BB}|1_WebApi_Handson.csproj|c:\\users\\vijayalakshmi\\source\\repos\\1_webapi_handson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F19561-4B38-4E48-84EF-5C4BD9D735BB}|1_WebApi_Handson.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\1_WebApi_Handson\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\1_WebApi_Handson\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:13:44.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1_WebApi_Handson.http",
+              "DocumentMoniker": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\1_WebApi_Handson\\1_WebApi_Handson.http",
+              "RelativeDocumentMoniker": "1_WebApi_Handson.http",
+              "ToolTip": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\1_WebApi_Handson\\1_WebApi_Handson.http",
+              "RelativeToolTip": "1_WebApi_Handson.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-14T18:08:55.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\1_WebApi_Handson\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\1_WebApi_Handson\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:08:51.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
