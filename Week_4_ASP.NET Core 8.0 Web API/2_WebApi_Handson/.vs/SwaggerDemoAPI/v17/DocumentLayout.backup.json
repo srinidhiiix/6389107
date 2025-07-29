@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\SwaggerDemoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{680E6024-E904-4855-AF34-8881DE686DA0}|SwaggerDemoAPI.csproj|c:\\users\\vijayalakshmi\\source\\repos\\swaggerdemoapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680E6024-E904-4855-AF34-8881DE686DA0}|SwaggerDemoAPI.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680E6024-E904-4855-AF34-8881DE686DA0}|SwaggerDemoAPI.csproj|c:\\users\\vijayalakshmi\\source\\repos\\swaggerdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680E6024-E904-4855-AF34-8881DE686DA0}|SwaggerDemoAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680E6024-E904-4855-AF34-8881DE686DA0}|SwaggerDemoAPI.csproj|c:\\users\\vijayalakshmi\\source\\repos\\swaggerdemoapi\\swaggerdemoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{680E6024-E904-4855-AF34-8881DE686DA0}|SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\SwaggerDemoAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\SwaggerDemoAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:53:09.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\SwaggerDemoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\SwaggerDemoAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:52:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwaggerDemoAPI",
+              "DocumentMoniker": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI.csproj",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI.csproj",
+              "ToolTip": "C:\\Users\\VIJAYALAKSHMI\\source\\repos\\SwaggerDemoAPI\\SwaggerDemoAPI.csproj",
+              "RelativeToolTip": "SwaggerDemoAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T17:50:54.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
